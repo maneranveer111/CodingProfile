@@ -10,3 +10,5 @@
 | 3 | GFG. Subarrays with Sum in Range | GeeksforGeeks | sliding-window | N/A | C++ (17) |
 
 | 4 | A. Cut Ribbon | Codeforces | dp | N/A | C++ |
+
+| 5 | 1406. Stone Game III | LeetCode | Dynamic Programming | Hard | Choose a type |
