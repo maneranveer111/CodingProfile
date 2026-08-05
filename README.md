@@ -12,3 +12,5 @@
 | 4 | A. Cut Ribbon | Codeforces | dp | N/A | C++ |
 
 | 5 | 1406. Stone Game III | LeetCode | Dynamic Programming | Hard | Choose a type |
+
+| 6 | 30. Substring with Concatenation of All Words | LeetCode | Sliding Window | Hard | Choose a type |
