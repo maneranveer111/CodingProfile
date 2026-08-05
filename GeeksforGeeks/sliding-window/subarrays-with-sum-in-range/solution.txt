@@ -1,0 +1,29 @@
+class Solution {
+  public:
+    int helper(int limit, vector<int>& arr) {
+        int cnt = 0;
+        int l = 0, currSum = 0;
+        
+        for(int i = 0; i < arr.size(); i++) {
+            currSum += arr[i];
+            
+            while(l <= i && currSum > limit) {
+                currSum -= arr[l];
+                l++;
+            }
+            
+            cnt += (i - l + 1);
+        }
+        
+        return cnt;
+    }
+
+    int countSubarray(vector<int>& arr, int l, int r) {
+        // code here
+        int c1 = helper(l - 1, arr);   
+        int c2 = helper(r, arr);
+        int ans = abs(c1 - c2);
+        
+        return ans;
+    }
+};
