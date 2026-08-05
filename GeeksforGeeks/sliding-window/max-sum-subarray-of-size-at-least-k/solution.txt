@@ -1,0 +1,22 @@
+class Solution {
+  public:
+    int maxSumWithK(vector<int>& arr, int k) {
+        // code here
+        
+        int n = arr.size(), sum = INT_MIN, curr = 0, win = 0;
+        
+        for(int i = 0; i < k; i++)
+            curr += arr[i];
+            
+        sum = curr;
+        win = curr;
+        
+        for(int i = k; i < n; i++) {
+            win += arr[i] - arr[i - k];
+            curr = max(win, curr + arr[i]);
+            sum = max(sum, curr);
+        }
+        
+        return sum;
+    }
+};
