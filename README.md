@@ -16,3 +16,5 @@
 | 6 | 30. Substring with Concatenation of All Words | LeetCode | Sliding Window | Hard | Choose a type |
 
 | 7 | GFG. Max Sum Subarray of Size at least K | GeeksforGeeks | sliding-window | N/A | C++ (17) |
+
+| 8 | 1140. Stone Game II | LeetCode | Dynamic Programming | Medium | Choose a type |
