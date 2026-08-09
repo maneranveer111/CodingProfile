@@ -20,3 +20,5 @@
 | 8 | 1140. Stone Game II | LeetCode | Dynamic Programming | Medium | Choose a type |
 
 | 9 | 4014. Minimum Total Price After Applying Discounts | LeetCode | Sorting | Medium | Choose a type |
+
+| 10 | 4015. Weighted Sum of a Tree | LeetCode | Trees | Medium | Choose a type |
