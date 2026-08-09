@@ -22,3 +22,5 @@
 | 9 | 4014. Minimum Total Price After Applying Discounts | LeetCode | Sorting | Medium | Choose a type |
 
 | 10 | 4015. Weighted Sum of a Tree | LeetCode | Trees | Medium | Choose a type |
+
+| 11 | 4016. Maximum Area of Two Non-Overlapping Square Submatrices | LeetCode | Binary Search | Medium | Choose a type |
