@@ -18,3 +18,5 @@
 | 7 | GFG. Max Sum Subarray of Size at least K | GeeksforGeeks | sliding-window | N/A | C++ (17) |
 
 | 8 | 1140. Stone Game II | LeetCode | Dynamic Programming | Medium | Choose a type |
+
+| 9 | 4014. Minimum Total Price After Applying Discounts | LeetCode | Sorting | Medium | Choose a type |
