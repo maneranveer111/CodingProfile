@@ -1,0 +1,108 @@
+class Solution {
+public:
+    int m, n;
+    vector<vector<int>> memo;
+    
+    int helper(int i, int j, vector<vector<int>>& mat) {
+        if(i >= m || i < 0 || j >= n || j < 0)
+            return 0;
+        if(memo[i][j] != -1)
+            return memo[i][j];
+
+        if(mat[i][j] == 0)
+            return memo[i][j] = 0;
+
+        int rht = 0, dia = 0, bel = 0;
+        rht = helper(i, j + 1, mat);
+        dia = helper(i + 1, j + 1, mat);
+        bel = helper(i + 1, j, mat);
+
+        return memo[i][j] = 1 + min(rht, min(dia, bel));
+    }
+
+    bool check(int k) {
+        vector<vector<int>> valid(m, vector<int>(n, 0));
+
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(memo[i][j] >= k)
+                    valid[i][j] = 1;
+            }
+        }
+
+        vector<vector<int>> row(m, vector<int>(n + 1, 0));
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++)
+                row[i][j + 1] = row[i][j] + valid[i][j];
+        }
+
+        vector<vector<int>> col(m + 1, vector<int>(n, 0));
+        for(int j = 0; j < n; j++) {
+            for(int i = 0; i < m; i++)
+                col[i + 1][j] = col[i][j] + valid[i][j];
+        }
+
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(!valid[i][j])
+                    continue;
+
+                if(i - k >= 0) {
+                    for(int r = 0; r <= i - k; r++) {
+                        if(row[r][n] > 0)
+                            return true;
+                    }
+                }
+
+                if(i + k < m) {
+                    for(int r = i + k; r < m; r++) {
+                        if(row[r][n] > 0)
+                            return true;
+                    }
+                }
+
+                if(j - k >= 0) {
+                    for(int c = 0; c <= j - k; c++) {
+                        if(col[m][c] > 0)
+                            return true;
+                    }
+                }
+
+                if(j + k < n) {
+                    for(int c = j + k; c < n; c++) {
+                        if(col[m][c] > 0)
+                            return true;
+                    }
+                }
+            }
+        }
+
+        return false;
+    }
+    
+    int maxArea(vector<vector<int>>& mat) {
+        m = mat.size();
+        n = mat[0].size();
+        memo.assign(m, vector<int>(n, -1));
+
+        for(int i = 0; i < m; i++)
+            for(int j = 0; j < n; j++)
+                helper(i, j, mat);
+
+        int lo = 1, hi = min(m, n);
+        int ans = 0;
+
+        while(lo <= hi) {
+            int mid = lo + (hi - lo) / 2;
+
+            if(check(mid)) {
+                ans = mid;
+                lo = mid + 1;
+            }
+            else
+                hi = mid - 1;
+        }
+
+        return ans * ans;
+    }
+};
