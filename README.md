@@ -24,3 +24,5 @@
 | 10 | 4015. Weighted Sum of a Tree | LeetCode | Trees | Medium | Choose a type |
 
 | 11 | 4016. Maximum Area of Two Non-Overlapping Square Submatrices | LeetCode | Binary Search | Medium | Choose a type |
+
+| 12 | 3302. Find the Lexicographically Smallest Valid Sequence | LeetCode | String | Medium | Choose a type |
