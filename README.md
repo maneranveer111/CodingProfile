@@ -36,3 +36,5 @@
 | 16 | B. Phone Numbers | Codeforces | implementation | N/A | C++ |
 
 | 17 | A. Pizza, Pizza, Pizza!!! | Codeforces | math | N/A | C++ |
+
+| 18 | 1525. Number of Good Ways to Split a String | LeetCode | Prefix Sum | Medium | Choose a type |
