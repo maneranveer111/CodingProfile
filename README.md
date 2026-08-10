@@ -28,3 +28,5 @@
 | 12 | 3302. Find the Lexicographically Smallest Valid Sequence | LeetCode | String | Medium | Choose a type |
 
 | 13 | 1510. Stone Game IV | LeetCode | Game Theory | Hard | Choose a type |
+
+| 14 | A. Weird Sum | Codeforces | matrices | N/A | C++ |
