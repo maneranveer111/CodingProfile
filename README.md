@@ -34,3 +34,5 @@
 | 15 | A. Homework | Codeforces | greedy | N/A | C++ |
 
 | 16 | B. Phone Numbers | Codeforces | implementation | N/A | C++ |
+
+| 17 | A. Pizza, Pizza, Pizza!!! | Codeforces | math | N/A | C++ |
