@@ -32,3 +32,5 @@
 | 14 | A. Weird Sum | Codeforces | matrices | N/A | C++ |
 
 | 15 | A. Homework | Codeforces | greedy | N/A | C++ |
+
+| 16 | B. Phone Numbers | Codeforces | implementation | N/A | C++ |
