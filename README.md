@@ -26,3 +26,5 @@
 | 11 | 4016. Maximum Area of Two Non-Overlapping Square Submatrices | LeetCode | Binary Search | Medium | Choose a type |
 
 | 12 | 3302. Find the Lexicographically Smallest Valid Sequence | LeetCode | String | Medium | Choose a type |
+
+| 13 | 1510. Stone Game IV | LeetCode | Game Theory | Hard | Choose a type |
