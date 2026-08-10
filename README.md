@@ -30,3 +30,5 @@
 | 13 | 1510. Stone Game IV | LeetCode | Game Theory | Hard | Choose a type |
 
 | 14 | A. Weird Sum | Codeforces | matrices | N/A | C++ |
+
+| 15 | A. Homework | Codeforces | greedy | N/A | C++ |
