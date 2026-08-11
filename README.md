@@ -40,3 +40,5 @@
 | 18 | 1525. Number of Good Ways to Split a String | LeetCode | Prefix Sum | Medium | Choose a type |
 
 | 19 | 1255. Maximum Score Words Formed by Letters | LeetCode | Dynamic Programming | Hard | Choose a type |
+
+| 20 | GFG. Minimum Spanning Tree | GeeksforGeeks | Graph | N/A | C++ (17) |
