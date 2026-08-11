@@ -46,3 +46,5 @@
 | 21 | 1971. Find if Path Exists in Graph | LeetCode | Graph Theory | Easy | Choose a type |
 
 | 22 | 1791. Find Center of Star Graph | LeetCode | Graph Theory | Easy | Choose a type |
+
+| 23 | 997. Find the Town Judge | LeetCode | Graph Theory | Easy | Choose a type |
