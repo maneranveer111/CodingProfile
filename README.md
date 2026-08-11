@@ -56,3 +56,5 @@
 | 26 | 733. Flood Fill | LeetCode | Depth-First Search | Easy | Choose a type |
 
 | 27 | 695. Max Area of Island | LeetCode | Depth-First Search | Medium | Choose a type |
+
+| 28 | 463. Island Perimeter | LeetCode | Depth-First Search | Easy | Choose a type |
