@@ -1,9 +1,15 @@
 class Solution {
 public:
-    bool isBipartite(vector<vector<int>>& graph) {
-        vector<int> vis(graph.size(), -1);
+    bool possibleBipartition(int n, vector<vector<int>>& dislikes) {
+        vector<vector<int>> adj(n + 1);
 
-        for(int i = 0; i < graph.size(); i++) {
+        for(int i = 0; i < dislikes.size(); i++) {
+            adj[dislikes[i][0]].push_back(dislikes[i][1]);
+            adj[dislikes[i][1]].push_back(dislikes[i][0]);
+        }
+
+        vector<int> vis(n + 1, -1);
+        for(int i = 1; i <= n; i++) {
             if(vis[i] != -1)
                 continue;
             
@@ -13,22 +19,22 @@ public:
 
             while(!q.empty()) {
                 int node = q.front().first;
-                int col = q.front().second;
+                int col = q.front().second;   
                 q.pop();
 
-                for(int i = 0; i < graph[node].size(); i++) {
-                    if(vis[graph[node][i]] != -1 && vis[graph[node][i]] == col)
+                for(auto nei : adj[node]) {
+                    if(vis[nei] != -1 && vis[nei] == col)
                         return false;
-                    if(vis[graph[node][i]] != -1)
+                    if(vis[nei] != -1)
                         continue;
-
+                    
                     if(col == 1) {
-                        q.push({graph[node][i], 0});
-                        vis[graph[node][i]] = 0;
+                        q.push({nei, 0});
+                        vis[nei] = 0;
                     }
                     else {
-                        q.push({graph[node][i], 1});
-                        vis[graph[node][i]] = 1;
+                        q.push({nei, 1});
+                        vis[nei] = 1;
                     }
                 }
             }
