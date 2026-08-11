@@ -1,0 +1,42 @@
+class Solution {
+public:
+    int n, m;
+    int dy[4] = {1, 0, -1, 0};
+    int dx[4] = {0, 1, 0, -1};
+
+    void dfs(int i, int j, vector<vector<char>>& board, vector<vector<int>>& vis){
+        vis[i][j] = 1;
+
+        for(int k = 0; k < 4; k++){
+            int ni = i + dy[k];
+            int nj = j + dx[k];
+
+            if(ni >= 0 && ni < n && nj >= 0 && nj < m && vis[ni][nj] == 0 &&
+               board[ni][nj] == 'O'){
+                dfs(ni, nj, board, vis);
+               }
+        }
+    }
+
+    void solve(vector<vector<char>>& board) {
+        n = board.size();
+        m = board[0].size();
+        vector<vector<int>> vis(n, vector<int>(m, 0));
+
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                if((i == 0 || j == 0 || i == n - 1 || j == m - 1) &&
+                    vis[i][j] == 0 && board[i][j] == 'O'){
+                    dfs(i, j, board, vis);
+                }
+            }
+        }
+
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                if(vis[i][j] != 1) board[i][j] = 'X';
+            }
+        }
+
+    }
+};
