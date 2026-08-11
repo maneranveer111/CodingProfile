@@ -60,3 +60,5 @@
 | 28 | 463. Island Perimeter | LeetCode | Depth-First Search | Easy | Choose a type |
 
 | 29 | 1020. Number of Enclaves | LeetCode | Depth-First Search | Medium | Choose a type |
+
+| 30 | 1254. Number of Closed Islands | LeetCode | Depth-First Search | Medium | Choose a type |
