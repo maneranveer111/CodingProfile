@@ -62,3 +62,5 @@
 | 29 | 1020. Number of Enclaves | LeetCode | Depth-First Search | Medium | Choose a type |
 
 | 30 | 1254. Number of Closed Islands | LeetCode | Depth-First Search | Medium | Choose a type |
+
+| 31 | 133. Clone Graph | LeetCode | Graph Theory | Medium | Choose a type |
