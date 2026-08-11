@@ -66,3 +66,5 @@
 | 31 | 133. Clone Graph | LeetCode | Graph Theory | Medium | Choose a type |
 
 | 32 | 994. Rotting Oranges | LeetCode | Breadth-First Search | Medium | Choose a type |
+
+| 33 | 130. Surrounded Regions | LeetCode | Depth-First Search | Medium | Choose a type |
