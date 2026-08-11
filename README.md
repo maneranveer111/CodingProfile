@@ -68,3 +68,5 @@
 | 32 | 994. Rotting Oranges | LeetCode | Breadth-First Search | Medium | Choose a type |
 
 | 33 | 130. Surrounded Regions | LeetCode | Depth-First Search | Medium | Choose a type |
+
+| 34 | 785. Is Graph Bipartite? | LeetCode | Bipartite Graph | Medium | Choose a type |
