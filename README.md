@@ -48,3 +48,5 @@
 | 22 | 1791. Find Center of Star Graph | LeetCode | Graph Theory | Easy | Choose a type |
 
 | 23 | 997. Find the Town Judge | LeetCode | Graph Theory | Easy | Choose a type |
+
+| 24 | 547. Number of Provinces | LeetCode | Graph Theory | Medium | Choose a type |
