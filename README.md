@@ -42,3 +42,5 @@
 | 19 | 1255. Maximum Score Words Formed by Letters | LeetCode | Dynamic Programming | Hard | Choose a type |
 
 | 20 | GFG. Minimum Spanning Tree | GeeksforGeeks | Graph | N/A | C++ (17) |
+
+| 21 | 1971. Find if Path Exists in Graph | LeetCode | Graph Theory | Easy | Choose a type |
