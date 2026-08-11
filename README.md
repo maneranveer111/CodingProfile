@@ -54,3 +54,5 @@
 | 25 | 841. Keys and Rooms | LeetCode | Graph Theory | Medium | Choose a type |
 
 | 26 | 733. Flood Fill | LeetCode | Depth-First Search | Easy | Choose a type |
+
+| 27 | 695. Max Area of Island | LeetCode | Depth-First Search | Medium | Choose a type |
