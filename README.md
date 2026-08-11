@@ -44,3 +44,5 @@
 | 20 | GFG. Minimum Spanning Tree | GeeksforGeeks | Graph | N/A | C++ (17) |
 
 | 21 | 1971. Find if Path Exists in Graph | LeetCode | Graph Theory | Easy | Choose a type |
+
+| 22 | 1791. Find Center of Star Graph | LeetCode | Graph Theory | Easy | Choose a type |
