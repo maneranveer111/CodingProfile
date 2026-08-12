@@ -82,3 +82,5 @@
 | 39 | 1162. As Far from Land as Possible | LeetCode | Breadth-First Search | Medium | Choose a type |
 
 | 40 | 1091. Shortest Path in Binary Matrix | LeetCode | Breadth-First Search | Medium | Choose a type |
+
+| 41 | 934. Shortest Bridge | LeetCode | Breadth-First Search | Medium | Choose a type |
