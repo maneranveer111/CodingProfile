@@ -76,3 +76,5 @@
 | 36 | 2958. Length of Longest Subarray With at Most K Frequency | LeetCode | Sliding Window | Medium | Choose a type |
 
 | 37 | 236. Lowest Common Ancestor of a Binary Tree | LeetCode | Binary Tree | Medium | Choose a type |
+
+| 38 | 684. Redundant Connection | LeetCode | Union-Find | Medium | Choose a type |
