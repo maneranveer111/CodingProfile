@@ -78,3 +78,5 @@
 | 37 | 236. Lowest Common Ancestor of a Binary Tree | LeetCode | Binary Tree | Medium | Choose a type |
 
 | 38 | 684. Redundant Connection | LeetCode | Union-Find | Medium | Choose a type |
+
+| 39 | 1162. As Far from Land as Possible | LeetCode | Breadth-First Search | Medium | Choose a type |
