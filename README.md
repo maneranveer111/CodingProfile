@@ -94,3 +94,5 @@
 | 45 | 802. Find Eventual Safe States | LeetCode | Topological Sort | Medium | Choose a type |
 
 | 46 | 1557. Minimum Number of Vertices to Reach All Nodes | LeetCode | Graph Theory | Medium | Choose a type |
+
+| 47 | 990. Satisfiability of Equality Equations | LeetCode | Union-Find | Medium | Choose a type |
