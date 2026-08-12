@@ -80,3 +80,5 @@
 | 38 | 684. Redundant Connection | LeetCode | Union-Find | Medium | Choose a type |
 
 | 39 | 1162. As Far from Land as Possible | LeetCode | Breadth-First Search | Medium | Choose a type |
+
+| 40 | 1091. Shortest Path in Binary Matrix | LeetCode | Breadth-First Search | Medium | Choose a type |
