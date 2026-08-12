@@ -86,3 +86,5 @@
 | 41 | 934. Shortest Bridge | LeetCode | Breadth-First Search | Medium | Choose a type |
 
 | 42 | 721. Accounts Merge | LeetCode | Union-Find | Medium | Choose a type |
+
+| 43 | 886. Possible Bipartition | LeetCode | Bipartite Graph | Medium | Choose a type |
