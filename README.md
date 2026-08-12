@@ -96,3 +96,5 @@
 | 46 | 1557. Minimum Number of Vertices to Reach All Nodes | LeetCode | Graph Theory | Medium | Choose a type |
 
 | 47 | 990. Satisfiability of Equality Equations | LeetCode | Union-Find | Medium | Choose a type |
+
+| 48 | 1319. Number of Operations to Make Network Connected | LeetCode | Depth-First Search | Medium | Choose a type |
