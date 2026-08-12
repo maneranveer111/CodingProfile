@@ -84,3 +84,5 @@
 | 40 | 1091. Shortest Path in Binary Matrix | LeetCode | Breadth-First Search | Medium | Choose a type |
 
 | 41 | 934. Shortest Bridge | LeetCode | Breadth-First Search | Medium | Choose a type |
+
+| 42 | 721. Accounts Merge | LeetCode | Union-Find | Medium | Choose a type |
