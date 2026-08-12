@@ -90,3 +90,5 @@
 | 43 | 886. Possible Bipartition | LeetCode | Bipartite Graph | Medium | Choose a type |
 
 | 44 | 210. Course Schedule II | LeetCode | Topological Sort | Medium | Choose a type |
+
+| 45 | 802. Find Eventual Safe States | LeetCode | Topological Sort | Medium | Choose a type |
