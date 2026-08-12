@@ -72,3 +72,5 @@
 | 34 | 785. Is Graph Bipartite? | LeetCode | Bipartite Graph | Medium | Choose a type |
 
 | 35 | 529. Minesweeper | LeetCode | Depth-First Search | Medium | Choose a type |
+
+| 36 | 2958. Length of Longest Subarray With at Most K Frequency | LeetCode | Sliding Window | Medium | Choose a type |
