@@ -98,3 +98,5 @@
 | 47 | 990. Satisfiability of Equality Equations | LeetCode | Union-Find | Medium | Choose a type |
 
 | 48 | 1319. Number of Operations to Make Network Connected | LeetCode | Depth-First Search | Medium | Choose a type |
+
+| 49 | 947. Most Stones Removed with Same Row or Column | LeetCode | Union-Find | Medium | Choose a type |
