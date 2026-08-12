@@ -1,40 +1,69 @@
 class Solution {
   public:
-    int spanningTree(int v, vector<vector<int>>& edges) {
-        // code here
-        vector<vector<pair<int, int>>> adj(v);
         
-        for(auto vec : edges) {
-            adj[vec[0]].push_back({vec[1], vec[2]});
-            adj[vec[1]].push_back({vec[0], vec[2]});
-        }
-        
-        priority_queue<pair<int, int>
-        , vector<pair<int, int>>, greater<pair<int, int>>> pq;
-        
-        pq.push({0, 0});
-        vector<int> vis(v, 0);
-        int sum = 0;
-        
-        while(!pq.empty()) {
-            auto info = pq.top();
-            pq.pop();
-            int node = info.second;
-            int edW = info.first;
+    class DisjointSet {
+        vector<int> size, parent;
+        public:
             
-            if(vis[node])
-                continue;
-            vis[node] = 1;
-            sum += edW;
+            DisjointSet(int n) {
+                size.assign(n, 1);
+                parent.assign(n, 0);
+                for(int i = 0; i < n; i++) 
+                    parent[i] = i;
+            }    
             
-            for(auto nei : adj[node]) {
-                int nxt = nei.first;
-                int nwt = nei.second;
+            int findUltParent(int node) {
+                if(parent[node] == node)
+                    return node;
                 
-                if(!vis[nxt]) {
-                    pq.push({nwt, nxt});
+                return parent[node] = findUltParent(parent[node]);
+            }
+            
+            void unionBySize(int u, int v) {
+                int ultPar_u = findUltParent(u);
+                int ultPar_v = findUltParent(v);
+            
+                if(ultPar_u == ultPar_v)
+                    return;
+                
+                if(size[ultPar_u] < size[ultPar_v]) {
+                    parent[ultPar_u] = ultPar_v;
+                    size[ultPar_v] += size[ultPar_u];
+                }
+                else {
+                    parent[ultPar_v] = ultPar_u;
+                    size[ultPar_u] += size[ultPar_v];
                 }
             }
+    };
+    
+    int spanningTree(int V, vector<vector<int>>& edges) {
+        // code here
+        vector<pair<int, pair<int, int>>> eddges;
+        for(auto edg : edges) {
+            eddges.push_back({edg[2], {edg[0], edg[1]}});
+        }
+        
+        sort(eddges.begin(), eddges.end());
+        
+        int sum = 0;
+        
+        DisjointSet djs(V);
+        
+        for(auto edg : eddges) {
+            int wt = edg.first;
+            int u = edg.second.first;
+            int v = edg.second.second;
+            
+            int ultPar_u = djs.findUltParent(u);
+            int ultPar_v = djs.findUltParent(v);
+            
+            if(ultPar_u == ultPar_v)
+                continue;
+            
+            sum += wt;
+            
+            djs.unionBySize(u, v);
         }
         
         return sum;
