@@ -102,3 +102,5 @@
 | 49 | 947. Most Stones Removed with Same Row or Column | LeetCode | Union-Find | Medium | Choose a type |
 
 | 50 | 2316. Count Unreachable Pairs of Nodes in an Undirected Graph | LeetCode | Depth-First Search | Medium | Choose a type |
+
+| 51 | 2492. Minimum Score of a Path Between Two Cities | LeetCode | Breadth-First Search | Medium | Choose a type |
