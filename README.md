@@ -100,3 +100,5 @@
 | 48 | 1319. Number of Operations to Make Network Connected | LeetCode | Depth-First Search | Medium | Choose a type |
 
 | 49 | 947. Most Stones Removed with Same Row or Column | LeetCode | Union-Find | Medium | Choose a type |
+
+| 50 | 2316. Count Unreachable Pairs of Nodes in an Undirected Graph | LeetCode | Depth-First Search | Medium | Choose a type |
