@@ -106,3 +106,5 @@
 | 51 | 2492. Minimum Score of a Path Between Two Cities | LeetCode | Breadth-First Search | Medium | Choose a type |
 
 | 52 | 2368. Reachable Nodes With Restrictions | LeetCode | Union-Find | Medium | Choose a type |
+
+| 53 | 417. Pacific Atlantic Water Flow | LeetCode | Matrix | Medium | Choose a type |
