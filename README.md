@@ -110,3 +110,5 @@
 | 53 | 417. Pacific Atlantic Water Flow | LeetCode | Matrix | Medium | Choose a type |
 
 | 54 | 289. Game of Life | LeetCode | Matrix | Medium | Choose a type |
+
+| 55 | 1202. Smallest String With Swaps | LeetCode | Union-Find | Medium | Choose a type |
