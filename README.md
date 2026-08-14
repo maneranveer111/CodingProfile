@@ -118,3 +118,5 @@
 | 57 | 3090. Maximum Length Substring With Two Occurrences | LeetCode | Sliding Window | Easy | Choose a type |
 
 | 58 | 743. Network Delay Time | LeetCode | Dijkstra's Algorithm | Medium | Choose a type |
+
+| 59 | 113. Path Sum II | LeetCode | Depth-First Search | Medium | Choose a type |
