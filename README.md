@@ -126,3 +126,5 @@
 | 61 | 1631. Path With Minimum Effort | LeetCode | Heap (Priority Queue) | Medium | Choose a type |
 
 | 62 | 1514. Path with Maximum Probability | LeetCode | Shortest Path | Medium | Choose a type |
+
+| 63 | 662. Maximum Width of Binary Tree | LeetCode | Breadth-First Search | Medium | Choose a type |
