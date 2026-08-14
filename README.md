@@ -124,3 +124,5 @@
 | 60 | 787. Cheapest Flights Within K Stops | LeetCode | Shortest Path | Medium | Choose a type |
 
 | 61 | 1631. Path With Minimum Effort | LeetCode | Heap (Priority Queue) | Medium | Choose a type |
+
+| 62 | 1514. Path with Maximum Probability | LeetCode | Shortest Path | Medium | Choose a type |
