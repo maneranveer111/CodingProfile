@@ -112,3 +112,5 @@
 | 54 | 289. Game of Life | LeetCode | Matrix | Medium | Choose a type |
 
 | 55 | 1202. Smallest String With Swaps | LeetCode | Union-Find | Medium | Choose a type |
+
+| 56 | 112. Path Sum | LeetCode | Depth-First Search | Easy | Choose a type |
