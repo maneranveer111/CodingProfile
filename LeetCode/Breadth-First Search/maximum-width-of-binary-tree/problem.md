@@ -13,7 +13,6 @@ The width of one level is defined as the length between the end-nodes (the leftm
 It is guaranteed that the answer will in the range of a 32-bit signed integer.
 
  
-
 Example 1:
 
 Input: root = [1,3,2,5,3,null,9]
@@ -36,8 +35,8 @@ Explanation: The maximum width exists in the second level with length 2 (3,2).
 
 
  
-
 Constraints:
 
-The number of nodes in the tree is in the range [1, 3000].
--100 <= Node.val <= 100
+
+	The number of nodes in the tree is in the range [1, 3000].
+	-100 <= Node.val <= 100
