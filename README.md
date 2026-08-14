@@ -127,4 +127,4 @@
 
 | 62 | 1514. Path with Maximum Probability | LeetCode | Shortest Path | Medium | Choose a type |
 
-| 63 | 662. Maximum Width of Binary Tree | LeetCode | Breadth-First Search | Medium | Choose a type |
+| 63 | 662. Maximum Width of Binary Tree | LeetCode | Binary Tree | Medium | Choose a type |
