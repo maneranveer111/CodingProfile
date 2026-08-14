@@ -120,3 +120,5 @@
 | 58 | 743. Network Delay Time | LeetCode | Dijkstra's Algorithm | Medium | Choose a type |
 
 | 59 | 113. Path Sum II | LeetCode | Depth-First Search | Medium | Choose a type |
+
+| 60 | 787. Cheapest Flights Within K Stops | LeetCode | Shortest Path | Medium | Choose a type |
