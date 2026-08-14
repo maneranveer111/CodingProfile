@@ -114,3 +114,5 @@
 | 55 | 1202. Smallest String With Swaps | LeetCode | Union-Find | Medium | Choose a type |
 
 | 56 | 112. Path Sum | LeetCode | Depth-First Search | Easy | Choose a type |
+
+| 57 | 3090. Maximum Length Substring With Two Occurrences | LeetCode | Sliding Window | Easy | Choose a type |
