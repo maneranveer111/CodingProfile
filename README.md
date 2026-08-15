@@ -128,3 +128,5 @@
 | 62 | 1514. Path with Maximum Probability | LeetCode | Shortest Path | Medium | Choose a type |
 
 | 63 | 662. Maximum Width of Binary Tree | LeetCode | Breadth-First Search | Medium | Choose a type |
+
+| 64 | 1928. Minimum Cost to Reach Destination in Time | LeetCode | Dijkstra's Algorithm | Hard | Choose a type |
