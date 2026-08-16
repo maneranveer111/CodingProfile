@@ -134,3 +134,5 @@
 | 65 | GFG. Matrix Chain Multiplication | GeeksforGeeks | Dynamic Programming | N/A | C++ (17) |
 
 | 66 | 1547. Minimum Cost to Cut a Stick | LeetCode | Dynamic Programming | Hard | Choose a type |
+
+| 67 | 312. Burst Balloons | LeetCode | Dynamic Programming | Hard | Choose a type |
