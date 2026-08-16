@@ -132,3 +132,5 @@
 | 64 | 1928. Minimum Cost to Reach Destination in Time | LeetCode | Dijkstra's Algorithm | Hard | Choose a type |
 
 | 65 | GFG. Matrix Chain Multiplication | GeeksforGeeks | Dynamic Programming | N/A | C++ (17) |
+
+| 66 | 1547. Minimum Cost to Cut a Stick | LeetCode | Dynamic Programming | Hard | Choose a type |
