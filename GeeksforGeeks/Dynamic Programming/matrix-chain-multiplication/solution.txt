@@ -1,0 +1,31 @@
+class Solution {
+  public:
+    vector<vector<int>> memo;
+  
+    int helper(int i, int j, vector<int> &arr) {
+        if(i == j)
+            return 0;
+        
+        if(memo[i][j] != -1)
+            return memo[i][j];
+        
+        int ans = INT_MAX;
+        
+        for(int k = i; k <= j - 1; k++) {
+            int curr = arr[i - 1] * arr[k] * arr[j];
+            curr += helper(i, k, arr) + helper(k + 1, j, arr);
+            
+            ans = min(ans, curr);
+        }
+        
+        return memo[i][j] = ans;
+    }
+    
+    int matrixMultiplication(vector<int> &arr) {
+        // code here
+        int n = arr.size();
+        memo.assign(n, vector<int>(n, -1));
+        
+        return helper(1, n - 1, arr);
+    }
+};
