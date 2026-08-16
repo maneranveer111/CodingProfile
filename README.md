@@ -130,3 +130,5 @@
 | 63 | 662. Maximum Width of Binary Tree | LeetCode | Breadth-First Search | Medium | Choose a type |
 
 | 64 | 1928. Minimum Cost to Reach Destination in Time | LeetCode | Dijkstra's Algorithm | Hard | Choose a type |
+
+| 65 | GFG. Matrix Chain Multiplication | GeeksforGeeks | Dynamic Programming | N/A | C++ (17) |
