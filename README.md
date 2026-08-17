@@ -144,3 +144,5 @@
 | 70 | 3828. Final Element After Subarray Deletions | LeetCode | Game Theory | Medium | Choose a type |
 
 | 71 | 863. All Nodes Distance K in Binary Tree | LeetCode | Breadth-First Search | Medium | Choose a type |
+
+| 72 | 1563. Stone Game V | LeetCode | Dynamic Programming | Hard | Choose a type |
