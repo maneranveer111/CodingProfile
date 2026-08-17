@@ -140,3 +140,5 @@
 | 68 | 2064. Minimized Maximum of Products Distributed to Any Store | LeetCode | Binary Search | Medium | Choose a type |
 
 | 69 | 2560. House Robber IV | LeetCode | Binary Search | Medium | Choose a type |
+
+| 70 | 3828. Final Element After Subarray Deletions | LeetCode | Game Theory | Medium | Choose a type |
