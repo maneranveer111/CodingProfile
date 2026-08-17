@@ -142,3 +142,5 @@
 | 69 | 2560. House Robber IV | LeetCode | Binary Search | Medium | Choose a type |
 
 | 70 | 3828. Final Element After Subarray Deletions | LeetCode | Game Theory | Medium | Choose a type |
+
+| 71 | 863. All Nodes Distance K in Binary Tree | LeetCode | Breadth-First Search | Medium | Choose a type |
