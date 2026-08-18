@@ -154,3 +154,5 @@
 | 75 | 1278. Palindrome Partitioning III | LeetCode | Dynamic Programming | Hard | Choose a type |
 
 | 76 | A. Vacations | Codeforces | dp | N/A | C++ |
+
+| 77 | A. Boredom | Codeforces | dp | N/A | C++ |
