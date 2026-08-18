@@ -156,3 +156,5 @@
 | 76 | A. Vacations | Codeforces | dp | N/A | C++ |
 
 | 77 | A. Boredom | Codeforces | dp | N/A | C++ |
+
+| 78 | C. Maximum Median | Codeforces | greedy | N/A | C++ |
