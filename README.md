@@ -150,3 +150,5 @@
 | 73 | 1043. Partition Array for Maximum Sum | LeetCode | Dynamic Programming | Medium | Choose a type |
 
 | 74 | 132. Palindrome Partitioning II | LeetCode | Dynamic Programming | Hard | Choose a type |
+
+| 75 | 1278. Palindrome Partitioning III | LeetCode | Dynamic Programming | Hard | Choose a type |
