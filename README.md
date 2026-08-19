@@ -170,3 +170,5 @@
 | 83 | 690. Employee Importance | LeetCode | Depth-First Search | Medium | Choose a type |
 
 | 84 | 310. Minimum Height Trees | LeetCode | Topological Sort | Medium | Choose a type |
+
+| 85 | 954. Array of Doubled Pairs | LeetCode | Hash Table | Medium | Choose a type |
