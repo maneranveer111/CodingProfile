@@ -162,3 +162,5 @@
 | 79 | GFG. Count Strongly Connected | GeeksforGeeks | Graph | N/A | C++ (17) |
 
 | 80 | 1386. Cinema Seat Allocation | LeetCode | Hash Table | Medium | Choose a type |
+
+| 81 | 1722. Minimize Hamming Distance After Swap Operations | LeetCode | Union-Find | Medium | Choose a type |
