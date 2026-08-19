@@ -160,3 +160,5 @@
 | 78 | C. Maximum Median | Codeforces | greedy | N/A | C++ |
 
 | 79 | GFG. Count Strongly Connected | GeeksforGeeks | Graph | N/A | C++ (17) |
+
+| 80 | 1386. Cinema Seat Allocation | LeetCode | Hash Table | Medium | Choose a type |
