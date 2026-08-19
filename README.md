@@ -174,3 +174,5 @@
 | 85 | 954. Array of Doubled Pairs | LeetCode | Sorting | Medium | Choose a type |
 
 | 86 | 1029. Two City Scheduling | LeetCode | Sorting | Medium | Choose a type |
+
+| 87 | B. Maximal Continuous Rest | Codeforces | implementation | N/A | C++ |
