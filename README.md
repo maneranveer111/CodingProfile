@@ -164,3 +164,5 @@
 | 80 | 1386. Cinema Seat Allocation | LeetCode | Hash Table | Medium | Choose a type |
 
 | 81 | 1722. Minimize Hamming Distance After Swap Operations | LeetCode | Union-Find | Medium | Choose a type |
+
+| 82 | 538. Convert BST to Greater Tree | LeetCode | Depth-First Search | Medium | Choose a type |
