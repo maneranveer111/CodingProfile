@@ -176,3 +176,5 @@
 | 86 | 1029. Two City Scheduling | LeetCode | Sorting | Medium | Choose a type |
 
 | 87 | B. Maximal Continuous Rest | Codeforces | implementation | N/A | C++ |
+
+| 88 | C. Hamburgers | Codeforces | binary search | N/A | C++ |
