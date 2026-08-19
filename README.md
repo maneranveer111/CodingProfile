@@ -172,3 +172,5 @@
 | 84 | 310. Minimum Height Trees | LeetCode | Topological Sort | Medium | Choose a type |
 
 | 85 | 954. Array of Doubled Pairs | LeetCode | Sorting | Medium | Choose a type |
+
+| 86 | 1029. Two City Scheduling | LeetCode | Sorting | Medium | Choose a type |
