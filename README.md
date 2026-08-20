@@ -182,3 +182,5 @@
 | 89 | 3069. Distribute Elements Into Two Arrays I | LeetCode | Array | Easy | Choose a type |
 
 | 90 | 826. Most Profit Assigning Work | LeetCode | Sorting | Medium | Choose a type |
+
+| 91 | 781. Rabbits in Forest | LeetCode | Hash Table | Medium | Choose a type |
