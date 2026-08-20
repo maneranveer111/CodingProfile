@@ -186,3 +186,5 @@
 | 91 | 781. Rabbits in Forest | LeetCode | Hash Table | Medium | Choose a type |
 
 | 92 | 857. Minimum Cost to Hire K Workers | LeetCode | Heap (Priority Queue) | Hard | Choose a type |
+
+| 93 | 669. Trim a Binary Search Tree | LeetCode | Depth-First Search | Medium | Choose a type |
