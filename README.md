@@ -184,3 +184,5 @@
 | 90 | 826. Most Profit Assigning Work | LeetCode | Sorting | Medium | Choose a type |
 
 | 91 | 781. Rabbits in Forest | LeetCode | Hash Table | Medium | Choose a type |
+
+| 92 | 857. Minimum Cost to Hire K Workers | LeetCode | Heap (Priority Queue) | Hard | Choose a type |
