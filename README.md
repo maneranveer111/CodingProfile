@@ -178,3 +178,5 @@
 | 87 | B. Maximal Continuous Rest | Codeforces | implementation | N/A | C++ |
 
 | 88 | C. Hamburgers | Codeforces | binary search | N/A | C++ |
+
+| 89 | 3069. Distribute Elements Into Two Arrays I | LeetCode | Array | Easy | Choose a type |
