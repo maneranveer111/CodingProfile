@@ -192,3 +192,5 @@
 | 94 | 3116. Kth Smallest Amount With Single Denomination Combination | LeetCode | Binary Search | Hard | Choose a type |
 
 | 95 | 668. Kth Smallest Number in Multiplication Table | LeetCode | Binary Search | Hard | Choose a type |
+
+| 96 | 99. Recover Binary Search Tree | LeetCode | Binary Search Tree | Medium | Choose a type |
