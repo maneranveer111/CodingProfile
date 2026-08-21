@@ -190,3 +190,5 @@
 | 93 | 669. Trim a Binary Search Tree | LeetCode | Depth-First Search | Medium | Choose a type |
 
 | 94 | 3116. Kth Smallest Amount With Single Denomination Combination | LeetCode | Binary Search | Hard | Choose a type |
+
+| 95 | 668. Kth Smallest Number in Multiplication Table | LeetCode | Binary Search | Hard | Choose a type |
