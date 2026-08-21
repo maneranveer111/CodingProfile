@@ -188,3 +188,5 @@
 | 92 | 857. Minimum Cost to Hire K Workers | LeetCode | Heap (Priority Queue) | Hard | Choose a type |
 
 | 93 | 669. Trim a Binary Search Tree | LeetCode | Depth-First Search | Medium | Choose a type |
+
+| 94 | 3116. Kth Smallest Amount With Single Denomination Combination | LeetCode | Bit Manipulation | Hard | Choose a type |
