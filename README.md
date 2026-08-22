@@ -194,3 +194,5 @@
 | 95 | 668. Kth Smallest Number in Multiplication Table | LeetCode | Binary Search | Hard | Choose a type |
 
 | 96 | 99. Recover Binary Search Tree | LeetCode | Binary Search Tree | Medium | Choose a type |
+
+| 97 | 1129. Shortest Path with Alternating Colors | LeetCode | Breadth-First Search | Medium | Choose a type |
