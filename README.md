@@ -196,3 +196,5 @@
 | 96 | 99. Recover Binary Search Tree | LeetCode | Binary Search Tree | Medium | Choose a type |
 
 | 97 | 1129. Shortest Path with Alternating Colors | LeetCode | Breadth-First Search | Medium | Choose a type |
+
+| 98 | 1311. Get Watched Videos by Your Friends | LeetCode | Breadth-First Search | Medium | Choose a type |
