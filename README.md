@@ -200,3 +200,5 @@
 | 98 | 1311. Get Watched Videos by Your Friends | LeetCode | Graph Theory | Medium | Choose a type |
 
 | 99 | 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance | LeetCode | Dijkstra's Algorithm | Medium | Choose a type |
+
+| 100 | Sum Game | LeetCode | Game Theory | N/A | N/A |
