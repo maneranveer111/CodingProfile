@@ -202,3 +202,5 @@
 | 99 | 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance | LeetCode | Dijkstra's Algorithm | Medium | Choose a type |
 
 | 100 | Sum Game | LeetCode | Game Theory | N/A | N/A |
+
+| 101 | 2225. Find Players With Zero or One Losses | LeetCode | Hash Table | Medium | C++ |
