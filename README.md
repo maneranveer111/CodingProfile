@@ -206,3 +206,5 @@
 | 101 | 2225. Find Players With Zero or One Losses | LeetCode | Hash Table | Medium | C++ |
 
 | 102 | 438. Find All Anagrams in a String | LeetCode | Sliding Window | Medium | C++ |
+
+| 103 | 3718. Smallest Missing Multiple of K | LeetCode | Array | Easy | C++ |
