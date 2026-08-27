@@ -212,3 +212,5 @@
 | 104 | 2115. Find All Possible Recipes from Given Supplies | LeetCode | Topological Sort | Medium | C++ |
 
 | 105 | 1462. Course Schedule IV | LeetCode | Breadth-First Search | Medium | C++ |
+
+| 106 | 1191. K-Concatenation Maximum Sum | LeetCode | Array | Medium | C++ |
