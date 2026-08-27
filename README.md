@@ -208,3 +208,5 @@
 | 102 | 438. Find All Anagrams in a String | LeetCode | Sliding Window | Medium | C++ |
 
 | 103 | 3718. Smallest Missing Multiple of K | LeetCode | Array | Easy | C++ |
+
+| 104 | 2115. Find All Possible Recipes from Given Supplies | LeetCode | Topological Sort | Medium | C++ |
