@@ -222,3 +222,5 @@
 | 109 | 147. Insertion Sort List | LeetCode | Linked List | Medium | C++ |
 
 | 110 | 65. Valid Number | LeetCode | String | Hard | C++ |
+
+| 111 | 1385. Find the Distance Value Between Two Arrays | LeetCode | Sorting | Easy | C++ |
