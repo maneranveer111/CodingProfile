@@ -214,3 +214,5 @@
 | 105 | 1462. Course Schedule IV | LeetCode | Breadth-First Search | Medium | C++ |
 
 | 106 | 1191. K-Concatenation Maximum Sum | LeetCode | Array | Medium | C++ |
+
+| 107 | 958. Check Completeness of a Binary Tree | LeetCode | Breadth-First Search | Medium | C++ |
