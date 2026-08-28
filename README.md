@@ -224,3 +224,5 @@
 | 110 | 65. Valid Number | LeetCode | String | Hard | C++ |
 
 | 111 | 1385. Find the Distance Value Between Two Arrays | LeetCode | Sorting | Easy | C++ |
+
+| 112 | 676. Implement Magic Dictionary | LeetCode | Hash Table | Medium | C++ |
