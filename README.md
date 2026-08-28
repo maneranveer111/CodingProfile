@@ -226,3 +226,5 @@
 | 111 | 1385. Find the Distance Value Between Two Arrays | LeetCode | Sorting | Easy | C++ |
 
 | 112 | 676. Implement Magic Dictionary | LeetCode | Hash Table | Medium | C++ |
+
+| 113 | 677. Map Sum Pairs | LeetCode | Trie | Medium | C++ |
