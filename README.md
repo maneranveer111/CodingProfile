@@ -228,3 +228,5 @@
 | 112 | 676. Implement Magic Dictionary | LeetCode | Hash Table | Medium | C++ |
 
 | 113 | 677. Map Sum Pairs | LeetCode | Trie | Medium | C++ |
+
+| 114 | 3903. Smallest Stable Index I | LeetCode | Prefix Sum | Easy | C++ |
