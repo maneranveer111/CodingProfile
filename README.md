@@ -236,3 +236,5 @@
 | 116 | 4046. Minimum Cost Path With At Most K Turns | LeetCode | Dynamic Programming | Hard | C++ |
 
 | 117 | 4044. Count Good Cyclic Rotations | LeetCode | Prefix Sum | Medium | C++ |
+
+| 118 | 115. Distinct Subsequences | LeetCode | Dynamic Programming | Hard | C++ |
