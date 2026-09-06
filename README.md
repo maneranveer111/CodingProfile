@@ -232,3 +232,5 @@
 | 114 | 3903. Smallest Stable Index I | LeetCode | Prefix Sum | Easy | C++ |
 
 | 115 | 4045. Count Robot Groups | LeetCode | Array | Medium | C++ |
+
+| 116 | 4046. Minimum Cost Path With At Most K Turns | LeetCode | Dynamic Programming | Hard | C++ |
