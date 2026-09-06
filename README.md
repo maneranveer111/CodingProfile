@@ -230,3 +230,5 @@
 | 113 | 677. Map Sum Pairs | LeetCode | Trie | Medium | C++ |
 
 | 114 | 3903. Smallest Stable Index I | LeetCode | Prefix Sum | Easy | C++ |
+
+| 115 | 4045. Count Robot Groups | LeetCode | Array | Medium | C++ |
