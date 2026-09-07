@@ -244,3 +244,5 @@
 | 120 | 3. Longest Substring Without Repeating Characters | LeetCode | Sliding Window | Medium | C++ |
 
 | 121 | 88. Merge Sorted Array | LeetCode | Two Pointers | Easy | C++ |
+
+| 122 | 146. LRU Cache | LeetCode | Doubly-Linked List | Medium | C++ |
