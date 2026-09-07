@@ -254,3 +254,5 @@
 | 125 | 200. Number of Islands | LeetCode | Depth-First Search | Medium | C++ |
 
 | 126 | 121. Best Time to Buy and Sell Stock | LeetCode | Array | Easy | C++ |
+
+| 127 | 2. Add Two Numbers | LeetCode | Linked List | Medium | C++ |
