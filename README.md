@@ -242,3 +242,5 @@
 | 119 | 1. Two Sum | LeetCode | Hash Table | Easy | C++ |
 
 | 120 | 3. Longest Substring Without Repeating Characters | LeetCode | Sliding Window | Medium | C++ |
+
+| 121 | 88. Merge Sorted Array | LeetCode | Two Pointers | Easy | C++ |
