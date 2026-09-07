@@ -250,3 +250,5 @@
 | 123 | 53. Maximum Subarray | LeetCode | Array | Medium | C++ |
 
 | 124 | 70. Climbing Stairs | LeetCode | Dynamic Programming | Easy | C++ |
+
+| 125 | 200. Number of Islands | LeetCode | Depth-First Search | Medium | C++ |
