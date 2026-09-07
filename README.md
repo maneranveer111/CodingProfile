@@ -238,3 +238,5 @@
 | 117 | 4044. Count Good Cyclic Rotations | LeetCode | Prefix Sum | Medium | C++ |
 
 | 118 | 115. Distinct Subsequences | LeetCode | Dynamic Programming | Hard | C++ |
+
+| 119 | 1. Two Sum | LeetCode | Hash Table | Easy | C++ |
