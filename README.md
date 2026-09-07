@@ -240,3 +240,5 @@
 | 118 | 115. Distinct Subsequences | LeetCode | Dynamic Programming | Hard | C++ |
 
 | 119 | 1. Two Sum | LeetCode | Hash Table | Easy | C++ |
+
+| 120 | 3. Longest Substring Without Repeating Characters | LeetCode | Sliding Window | Medium | C++ |
