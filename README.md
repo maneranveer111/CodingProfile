@@ -260,3 +260,5 @@
 | 128 | 1038. Binary Search Tree to Greater Sum Tree | LeetCode | Depth-First Search | Medium | C++ |
 
 | 129 | 1615. Maximal Network Rank | LeetCode | Graph Theory | Medium | C++ |
+
+| 130 | 2392. Build a Matrix With Conditions | LeetCode | Topological Sort | Hard | C++ |
