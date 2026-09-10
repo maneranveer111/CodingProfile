@@ -256,3 +256,5 @@
 | 126 | 121. Best Time to Buy and Sell Stock | LeetCode | Array | Easy | C++ |
 
 | 127 | 2. Add Two Numbers | LeetCode | Linked List | Medium | C++ |
+
+| 128 | 1038. Binary Search Tree to Greater Sum Tree | LeetCode | Depth-First Search | Medium | C++ |
