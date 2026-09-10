@@ -258,3 +258,5 @@
 | 127 | 2. Add Two Numbers | LeetCode | Linked List | Medium | C++ |
 
 | 128 | 1038. Binary Search Tree to Greater Sum Tree | LeetCode | Depth-First Search | Medium | C++ |
+
+| 129 | 1615. Maximal Network Rank | LeetCode | Graph Theory | Medium | C++ |
