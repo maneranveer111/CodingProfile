@@ -262,3 +262,5 @@
 | 129 | 1615. Maximal Network Rank | LeetCode | Graph Theory | Medium | C++ |
 
 | 130 | 2392. Build a Matrix With Conditions | LeetCode | Topological Sort | Hard | C++ |
+
+| 131 | 1477. Find Two Non-overlapping Sub-arrays Each With Target Sum | LeetCode | Sliding Window | Medium | C++ |
